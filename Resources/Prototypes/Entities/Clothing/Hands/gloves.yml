@@ -444,6 +444,7 @@
   id: ClothingHandsGlovesKrav-Maga
   name: Перчатки крав-мага
   description: Перчатки, помогающие использовать специальную технику боя Крав-мага.
+  suffix: skibidistation
   components:
   - type: Sprite
     sprite: /Uploaded/proto/kravmags.rsi
